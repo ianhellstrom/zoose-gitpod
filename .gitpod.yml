@@ -1,0 +1,16 @@
+image: databaseline/zoose-base-gitpod:dev-only
+
+ports:
+  - port: 8888
+    onOpen: open-browser
+
+vscode:
+  extensions:
+    - ms-python.python
+    - ms-python.black-formatter
+    - ms-toolsai.jupyter
+    - ms-toolsai.jupyter-keymap
+    - ms-toolsai.jupyter-renderers
+    - ms-toolsai.vscode-jupyter-powertoys
+    - ms-pyright.pyright
+    - ms-vscode.references-view
