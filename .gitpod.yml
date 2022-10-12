@@ -1,4 +1,4 @@
-image: databaseline/zoose-base-gitpod:dev-only
+image: databaseline/zoose-quantum-gitpod:3.0.0
 
 ports:
   - port: 8888
