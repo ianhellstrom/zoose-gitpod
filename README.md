@@ -7,6 +7,6 @@ Do you want to run Zoose or [Zoose Quantum](https://databaseline.tech/zoose-2.0/
 1. [Create a workspace](https://www.gitpod.io/docs/introduction/getting-started#start-your-first-workspace) in Gitpod from the repository you created in the previous step.
 1. Enjoy a hosted notebook experience with VSCode and JupyterLab from your browser.
 
-If you do not want to include any quantum libraries, change `databaseline/zoose-quantum-gitpod:3.0.0` to `databaseline/zoose-base-gitpod:3.0.0` in `.gitpod.yml`.
+If you do not want to include any quantum libraries, change `databaseline/zoose-quantum-gitpod:3.0.1` to `databaseline/zoose-base-gitpod:3.0.1` in `.gitpod.yml`.
 
 It is not recommended that you switch the image tag to "latest", as that may have unintended consequences on existing notebooks.
