@@ -1,7 +1,9 @@
 image: databaseline/zoose-quantum-gitpod:3.0.1
 
 ports:
-  - port: 8888
+  - name: JupyterLab
+    description: Zoose port for JupyterLab
+    port: 8888
     onOpen: open-browser
 
 vscode:
