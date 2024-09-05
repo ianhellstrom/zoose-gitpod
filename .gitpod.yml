@@ -1,4 +1,4 @@
-image: databaseline/zoose-quantum-gitpod:4.4.0
+image: databaseline/zoose-quantum-gitpod:5.0.0
 
 ports:
   - name: JupyterLab
